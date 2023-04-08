@@ -1,0 +1,22 @@
+/* css样式重置文件 */
+body, h1, h2, h3, h4, h5, h5, p, ul, li, ol, p, dl, dd {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+img {
+  vertical-align: top;
+}
+
+ul, ol, li, dl, dd {
+  list-style: none;
+}
+
+i, em {
+  font-style: normal;
+}
